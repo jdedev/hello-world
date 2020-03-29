@@ -1,3 +1,4 @@
+ci/cd
 ansible
 cicd
 <h1> jdedev Hello, Welcome to Simple DevOps Project !!   </h1>
